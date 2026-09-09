@@ -1,0 +1,13 @@
+{
+  "name": "genpark-flajolet-martin-cardinality-sketch-skill",
+  "version": "1.0.0",
+  "description": "Flajolet-Martin (FM) distinct elements streaming sketch estimating unique cardinality from trailing zero bit patterns with logarithmic memory.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "flajolet-martin",
+    "streaming-cardinality",
+    "distinct-elements",
+    "probabilistic-sketching"
+  ]
+}
